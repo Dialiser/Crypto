@@ -1,11 +1,11 @@
-// import React from 'react'
-// import { Box, Spinner, VStack } from "@chakra-ui/react";
-// const Loader = () => {
-//   return (
-//    <VStack h={"90vh"} justifyContent={"center"}>
-//     <Spinner size={"xl"}/>
-//    </VStack>
-//   )
-// }
+import React from 'react'
 
-// export default Loader
+const Loader = () => {
+  return (
+    <div>
+      
+    </div>
+  )
+}
+
+export default Loader
