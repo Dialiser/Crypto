@@ -18,13 +18,14 @@ const Exchanges = () => {
   useEffect(() => {
     const fetchExchanges = async () => {
       try {
-        const { data } = await axios.get("https://api.coingecko.com/api/v3/exchanges");
+        const { data } = await axios.get(`${server}/exchanges`);
         setExchanges(data);
         setLoading(false);
       } catch (error) {
         // setError(true);
         setLoading(false);
       }
+      
     };
     fetchExchanges();
   }, []);
