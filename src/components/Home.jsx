@@ -1,7 +1,7 @@
 import React from 'react'
 import { Box, Image, Text } from "@chakra-ui/react";
 import { motion } from "framer-motion";
-// import crypt from "../assets/btc.png"
+import {crypt} from "../index"
 const Home = () => {
   return (
     <Box bgColor={"blackAlpha.100"} w={"full"} h={"85vh"}>
@@ -23,7 +23,7 @@ const Home = () => {
     <Image w={"full"}
      h={"full"}
      objectFit={"contain"}   
-     src={"https://www.freepnglogos.com/uploads/bitcoin-png/bitcoinpaygate-bitcoin-payment-gateway-payment-processor-7.png"}/>
+     src={`${crypt}`}/>
      </motion.div>
       <Text
         fontSize={"6xl"}
