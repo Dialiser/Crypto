@@ -1,7 +1,7 @@
 import React from 'react'
 import { Box, Image, Text } from "@chakra-ui/react";
 import { motion } from "framer-motion";
-import {crypt} from "../index"
+import crypt from "../assets/btc.png"
 const Home = () => {
   return (
     <Box bgColor={"blackAlpha.100"} w={"full"} h={"85vh"}>
@@ -23,7 +23,7 @@ const Home = () => {
     <Image w={"full"}
      h={"full"}
      objectFit={"contain"}   
-     src={`${crypt}`}/>
+     src={crypt}/>
      </motion.div>
       <Text
         fontSize={"6xl"}

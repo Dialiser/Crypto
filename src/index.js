@@ -19,4 +19,4 @@ root.render(
 );
 
 export const server = `https://api.coingecko.com/api/v3`;
-export const crypt =`https://www.freepnglogos.com/uploads/bitcoin-png/bitcoinpaygate-bitcoin-payment-gateway-payment-processor-7.png`
+// export const crypt =`https://www.freepnglogos.com/uploads/bitcoin-png/bitcoinpaygate-bitcoin-payment-gateway-payment-processor-7.png`
