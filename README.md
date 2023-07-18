@@ -20,7 +20,7 @@ You can access the live demo of the website [here](https://r-cryptoo.vercel.app/
 
 ## Screenshots
 
-![Screenshot 1](screenshot1.png)
+![Screenshot 1](screenshot.png)
 ![Screenshot 2](screenshot2.png)
 
 ## Installation
