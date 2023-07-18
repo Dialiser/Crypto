@@ -1,6 +1,6 @@
 
 # Crypto Live Details Website
-![Screenshot (63)](https://github.com/Rishav2k21/R-cryptoo/assets/98807848/d24ee984-fe30-4946-9f14-584f6fe746e6)
+<img width="931" alt="Screenshot (62)" src="https://github.com/Rishav2k21/R-cryptoo/assets/98807848/c4e2534c-1505-453b-96d9-e83f41f90134">
 
 
 ## Description
@@ -20,15 +20,21 @@ You can access the live demo of the website [here](https://r-cryptoo.vercel.app/
 
 ## Screenshots
 
-![Screenshot 1](screenshot.png)
-![Screenshot 2](screenshot2.png)
+![Screenshot (63)](https://github.com/Rishav2k21/R-cryptoo/assets/98807848/1c4c0871-2454-48d1-8b2a-f44758045c19)
+![Screenshot (64)](https://github.com/Rishav2k21/R-cryptoo/assets/98807848/22c67952-d613-440e-9936-b0edf5fb6106)
+![Screenshot (65)](https://github.com/Rishav2k21/R-cryptoo/assets/98807848/7bcca25a-31f5-457b-870a-d9ea90ac48e1)
+![Screenshot (66)](https://github.com/Rishav2k21/R-cryptoo/assets/98807848/8f83c83b-86a5-4a54-9031-acaf08981081)
+![Screenshot (67)](https://github.com/Rishav2k21/R-cryptoo/assets/98807848/bf888a84-5f72-42fc-aeaa-079fd6aded22)
+![Screenshot (68)](https://github.com/Rishav2k21/R-cryptoo/assets/98807848/c9e79ccb-1d17-49a2-94bb-072522fe9d9f)
+
+
 
 ## Installation
 
 1. Clone the repository:
 
-git clone https://github.com/your-username/your-crypto-website.git
-cd your-crypto-website
+git clone https://github.com/Rishav2k21/R-crypto.git
+
 
 
 
@@ -58,9 +64,9 @@ Contributions are welcome! If you find any bugs or want to add new features, ple
 
 ## Technologies Used
 
-- HTML5, CSS3, JavaScript
+- HTML5, CSS3, JavaScript,Chakra Ui
 - React.js for building the frontend
-- RESTful API to fetch live crypto data
+- API to fetch live crypto data
 - Charting library (e.g., Chart.js) for visualizations
 
 ## Credits
