@@ -1,7 +1,7 @@
 
 # Crypto Live Details Website
+![Screenshot (63)](https://github.com/Rishav2k21/R-cryptoo/assets/98807848/d24ee984-fe30-4946-9f14-584f6fe746e6)
 
-![Crypto Live Details](your_project_image.png)
 
 ## Description
 
