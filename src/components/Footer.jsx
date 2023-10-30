@@ -28,18 +28,18 @@ const Footer = () => {
             Social Media
           </Heading>
           <Button variant={'link'} colorScheme={'white'}>
-            <a target={'black'} href="https://www.linkedin.com/in/rishav-anand-20479b244/">
+            <a target={'black'} href="">
               LinkedIn
             </a>
           </Button>
           <Button variant={'link'} colorScheme={'white'}>
-            <a target={'black'} href="https://instagram.com/rishav_02_12">
+            <a target={'black'} href="">
               Instagram
             </a>
           </Button>
 
           <Button variant={'link'} colorScheme={'white'}>
-            <a target={'black'} href="https://github.com/Rishav2k21">
+            <a target={'black'} href="">
               Github
             </a>
           </Button>
